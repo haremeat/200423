@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/UnmaskForUGUI-develop/Assets/UnmaskForUGUI_Demo/Unmask_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
